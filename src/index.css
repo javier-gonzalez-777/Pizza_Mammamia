@@ -1,0 +1,14 @@
+
+.nav {
+    background-color: rgba(85, 202, 46, 0.777);
+    list-style-type: none;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+}
